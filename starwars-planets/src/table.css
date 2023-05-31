@@ -1,0 +1,8 @@
+.planets-table, .planet-column-name {
+  border: 1px solid black;
+  border-radius: 2px;
+}
+
+table {
+  width: 100%;
+}
